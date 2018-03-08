@@ -1,0 +1,78 @@
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:49:1: illegal start of type[0m
+[0m[[0m[31merror[0m] [0m[0m        public Employee(Long id, String fname, String lname, Department department,) {[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:49:1: ')' expected[0m
+[0m[[0m[31merror[0m] [0m[0m        public Employee(Long id, String fname, String lname, Department department,) {[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:49:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m        public Employee(Long id, String fname, String lname, Department department,) {[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:50:1: illegal start of type[0m
+[0m[[0m[31merror[0m] [0m[0m            this.id = id;[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:51:1: illegal start of type[0m
+[0m[[0m[31merror[0m] [0m[0m            this.fname = fname;[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:51:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m            this.fname = fname;[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:51:1: <identifier> expected[0m
+[0m[[0m[31merror[0m] [0m[0m            this.fname = fname;[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:52:1: illegal start of type[0m
+[0m[[0m[31merror[0m] [0m[0m            this.lname = lname;[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:52:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m            this.lname = lname;[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:52:1: <identifier> expected[0m
+[0m[[0m[31merror[0m] [0m[0m            this.lname = lname;[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:53:1: illegal start of type[0m
+[0m[[0m[31merror[0m] [0m[0m            this.department=department;[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:53:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m            this.department=department;[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:53:1: <identifier> expected[0m
+[0m[[0m[31merror[0m] [0m[0m            this.department=department;[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:90:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        public List<Long> getProjSelect(){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:57:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        }[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:60:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        public Long getId() {[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:62:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        }[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:63:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        public void setId(Long id) {[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:65:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        }[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:66:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        public String getFname() {[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:68:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        }[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:69:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        public String getLname() {[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:71:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        }[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:72:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        public void setFname(String fname) {[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:74:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        }[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:75:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        public void setLname(String lname) {[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:77:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        }[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:78:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        public Department getDepartment(){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:80:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        }[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:81:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        public void setDepartment(Department d){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:83:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        }[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:84:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        public List<Project> getProjects() {[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:86:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        }[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:88:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        public void setProjects(List<Project> projects) {[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:90:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        }[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:91:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        public void setAddress(Address a){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:93:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        }[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:94:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        public Address getAddress(){[0m
+[0m[[0m[31merror[0m] [0m[0m/home/wdd/webapps/GroupCA-master/app/models/Employee.java:96:1: class, interface, or enum expected[0m
+[0m[[0m[31merror[0m] [0m[0m        }[0m
